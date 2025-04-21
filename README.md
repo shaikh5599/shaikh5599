@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikh5599
 - 👀 I’m interested in java full stack
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on BCA 
+- 💞️ I’m looking to collaborate on BCS
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Alway happy
